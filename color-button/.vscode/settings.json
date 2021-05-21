@@ -1,0 +1,11 @@
+{
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+  },
+  "eslint.validate": {
+    "configFile": ["javascript", "javascriptreact"],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}
